@@ -5,7 +5,7 @@ iOS multiple Image Picker
 * iOS 5 - 8 support
 * using Photos.framework in iOS 8
 
-![Albums screenshot](scr_albums.png =320x480)
+<img src="scr_albums.png" width=320 title="Albums screenshot">
 ![Photos list screenshot](scr_list.png =320x480)
 
 # License
